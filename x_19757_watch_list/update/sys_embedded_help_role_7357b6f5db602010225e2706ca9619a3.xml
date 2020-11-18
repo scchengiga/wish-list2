@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_19757_watch_list.user" name="x_19757_watch_list.user">bb57f6bddb202010225e2706ca961966</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-18 23:42:41</sys_created_on>
+        <sys_id>7357b6f5db602010225e2706ca9619a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bb57f6bddb202010225e2706ca961966</sys_name>
+        <sys_package display_value="Watch List" source="x_19757_watch_list">973736f5db602010225e2706ca961910</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Watch List">973736f5db602010225e2706ca961910</sys_scope>
+        <sys_update_name>sys_embedded_help_role_7357b6f5db602010225e2706ca9619a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-18 23:42:41</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
